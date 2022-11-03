@@ -15,8 +15,8 @@
 .nav-link{
     list-style: none;
     position: relative;
-    width: 300px;
-    height: 250px;
+    width: 0px;
+    height: 0px;
     display: flex;
     text-align: center;
     text-transform: uppercase;
